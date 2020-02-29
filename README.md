@@ -1,5 +1,5 @@
 # 21dian
-description: a battle platform to play 21 dian
+Description: a battle platform to play 21 dian
 OS required:linux 
 Mysql version:perconaserver
 Install:server:g++ myserver.c -o myserver -l perconaserverclient -g
